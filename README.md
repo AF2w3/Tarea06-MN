@@ -1,0 +1,2 @@
+- ST : Serie de Taylor
+- PL : Polinomios de Lagrange
